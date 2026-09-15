@@ -1,0 +1,21 @@
+onboarding = false
+
+[keys]
+prefix = "ctrl+a"
+split_horizontal = 'prefix+"'
+split_vertical = "prefix+%"
+focus_agent = "prefix+alt+1..9"
+move_tab_previous="prefix+{"
+move_tab_next="prefix+}"
+
+[theme]
+auto_switch = false
+
+name = "catppuccin"
+
+[ui]
+show_agent_labels_on_pane_borders = true
+
+status_indicators = "symbols"
+[ui.toast]
+delivery = "herdr"

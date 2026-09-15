@@ -1,0 +1,15 @@
+theme = Carbonfox
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+fullscreen = true
+macos-icon = official
+window-padding-balance = true
+window-save-state = always
+keybind = ctrl+shift+t=toggle_quick_terminal
+keybind = super+plus=increase_font_size:1
+keybind = super+minus=decrease_font_size:1
+keybind = super+shift+t=new_split:down
+keybind = ctrl+j=goto_split:bottom
+keybind = ctrl+k=goto_split:top
+keybind = super+v=paste_from_clipboard
